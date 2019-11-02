@@ -8,7 +8,7 @@ Analysing Bikeshare data using Python
 Analyse Bikeshare data of 3 cities- Washinton, New York City and Chicago- using Python.
 Interact with your terminal to filter data by month or day of week or both.
 Get insights into busiest day of week/time of day, popular stations and routes, durations of trips and user statistics.
-Get raw data, if required.
+Get raw data, if required. Raw data is staged 5 rows at a time
 
 ### Files used
 City-wise bikeshare data files were used as part of this project. They are available at ... (unable to access the links where csv files were originally downloaded from)
